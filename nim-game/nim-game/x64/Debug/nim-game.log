@@ -1,0 +1,3 @@
+﻿  nim-game.cpp
+c:\users\the geekiest one\google drive\github\nim-game-cpp\nim-game\nim-game\nim-game.cpp(542): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  nim-game.vcxproj -> C:\Users\The Geekiest One\Google Drive\GitHub\nim-game-cpp\nim-game\x64\Debug\nim-game.exe
